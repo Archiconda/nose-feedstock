@@ -1,6 +1,8 @@
 About nose
 ==========
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: http://readthedocs.org/docs/nose/
 
 Package license: LGPL-2.1
@@ -21,6 +23,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/nose-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/nose-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/nose-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/nose-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/nose-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/nose-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d1a83aeb3c070044c6ac/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/nose-feedstock)
 
 Current release info
 ====================
@@ -108,3 +111,12 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@jakirkham](https://github.com/jakirkham/)
+* [@msarahan](https://github.com/msarahan/)
+* [@ocefpaf](https://github.com/ocefpaf/)
+* [@scopatz](https://github.com/scopatz/)
+
